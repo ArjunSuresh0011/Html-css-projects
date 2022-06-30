@@ -1,0 +1,14 @@
+ body{
+    background-image: url(../images/background_new.jpg);
+    padding: 40px;
+ }
+ 
+ div.main{
+    display: flex;
+    justify-content:right;
+    justify-content: space-around;
+
+ }
+ div.right{
+    margin: 10px    ;
+ }
