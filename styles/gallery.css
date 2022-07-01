@@ -1,7 +1,29 @@
-
+body{
+    padding: 0;
+}
+div.head{
+    position: sticky;
+    top: 0;
+    background-color: rgb(219, 216, 236, 1);
+}
+.fa-camera{
+    color:green;
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+    text-shadow:2px 4px 6px yellow;
+   cursor: pointer;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(188, 8, 224, 1);
+   
+}
 .photo{
     padding: 30px;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     margin-left: 40px;
 }
