@@ -1,6 +1,6 @@
  body{
-    background-image: url(../images/background_new.jpg);
-    padding: 40px;
+    background-image: url(../images/butter_closeup3.jpg);
+    padding: 10px;
  }
  
  div.main{
@@ -10,5 +10,14 @@
 
  }
  div.right{
-    margin: 10px    ;
+    margin: 10px;
+ }
+ .left{
+   margin-right: 300px;
+ }
+ .fa-camera{
+   padding-right: 100px;
+   color:rgb(1, 231, 239);
+   font-size: 40px;
+   text-shadow:2px 4px 6px green;
  }
