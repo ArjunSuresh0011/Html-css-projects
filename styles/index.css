@@ -12,12 +12,33 @@
  div.right{
     margin: 10px;
  }
- .left{
-   margin-right: 300px;
+ .right{
+   color:white;
+   cursor: pointer;
+ }
+ span{
+
+   padding-right: 200px;
+   color:white;
+   font-size: 40px;
+   text-shadow:2px 4px 6px green;
+   cursor: pointer;
  }
  .fa-camera{
    padding-right: 100px;
-   color:rgb(1, 231, 239);
+   color:white;
    font-size: 40px;
    text-shadow:2px 4px 6px green;
+   cursor: pointer;
+ }
+ a{
+   text-decoration: none;
+   color:chartreuse;
+ }
+ a:visited{
+   text-decoration: none;
+   color:chartreuse;
+ }
+ a:hover{
+   box-shadow: 10px 10px 10px red;
  }
